@@ -28,7 +28,7 @@ Saturday - Sunday | Build a deployable app with desired style | 7 hrs
 Monday - Tuesday |  Present to Management and other teams for feedback, reiterate  |  7 hrs 
 Wednesday - Thursday |   Finalize the structure of the app, break down to individual work   |  6 hrs 
 
-Optional features: Authentication Login system with Google/Facebook (`Extra Hard`), surveys(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`medium`)
+Optional features: Authentication Login system with Google/Facebook (`Extra Hard`), surveys/townhall(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`Medium`), Live message(`Extra Hard`), live code Compile/running environment(`Hard`)
 
 ---
 #### Phase Three `Individual & Group` (Dec 22nd - Jan 3rd)
