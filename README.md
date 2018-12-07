@@ -28,6 +28,8 @@ Saturday - Sunday | Build a deployable app with desired style | 7 hrs
 Monday - Tuesday |  Present to Management and other teams for feedback, reiterate  |  7 hrs 
 Wednesday - Thursday |   Finalize the structure of the app, break down to individual work   |  6 hrs 
 
+Optional features: Authentication Login system with Google/Facebook (`Extra Hard`), surveys(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`medium`)
+
 ---
 #### Phase Three `Individual & Group` (Dec 22nd - Jan 3rd)
 
@@ -66,12 +68,12 @@ Please prioritize your own shifts, help-desks, and RBK assignments over this com
 [React Native Tutorial Blog 15 mins Read](https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial)  
 [**React Native Buld a Currency Converter Tutorial**](https://learn.handlebarlabs.com/courses/175915/lectures/2643143)  
 
-### Phase 2+:
+#### Phase 2+:
 [Best practices for creating React Native apps — Part 1](https://medium.com/react-native-training/best-practices-for-creating-react-native-apps-part-1-66311c746df3)  
 [React Native Navigation (V2) by Wix — Getting Started](https://medium.com/react-native-training/react-native-navigation-v2-by-wix-getting-started-7d647e944132)  
 [Building Serverless Mobile Applications with React Native & AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)  
 
-React Native Tools:
+#### React Native Tools:  
 [Online React Native Code Editor](https://snack.expo.io/)  
 [Ignite 2 — The shortcut for new React Native projects](https://medium.com/react-native-training/ignite-2-the-shortcut-for-new-react-native-projects-b62376da6c5d)  
 
