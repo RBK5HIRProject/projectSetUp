@@ -1,13 +1,12 @@
 # RBK Review
 
-React Native smartphone app to supplement RBK instructional materials
+React Native mobile app that supplements RBK instructional materials
 
 ## Main Objectives
 
 Provide students with study resources (previous checkpoints, pre-course, additional reading resources)   
 Use the app as a central information hub for Student Handbook, surveys, calendar, townhall, etc.  
-Assign struggling students extra practice   
-Tech Mentor utilize the app to assign additional instruction   
+Staffs can utilize the app to assign additional instruction   
 
 ## Timeline
 
@@ -25,18 +24,19 @@ Wednesday - Thursday |   Allocate roles, set up develop environments   |  6 hrs
 Sprints | Targets | Time
 --- | --- | ---
 Saturday - Sunday | Build a deployable app with desired style | 7 hrs 
-Monday - Tuesday |  Present to Management and other teams for feedback, reiterate  |  7 hrs 
-Wednesday - Thursday |   Finalize the structure of the app, break down to individual work   |  6 hrs 
+Monday - Tuesday |  **Present app to Management and other teams for review, reiterate base on feedback**  |  7 hrs 
+Wednesday - Thursday |   Finalize the structure of the app, each HIR choose their features/Sprints   |  6 hrs 
 
-Optional features: Authentication Login system with Google/Facebook (`Extra Hard`), surveys/townhall(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`Medium`), Live message(`Extra Hard`), live code Compile/running environment(`Hard`)
+**Optional features:** authentication login system with Google/Facebook (`Extra Hard`), implement surveys/townhall(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`Medium`), Live message(`Extra Hard`), live code Compile/running environment(`Hard`), staff portal page that accesses student info(`Extra Hard`), student portal page for that accesses survey, townhall, etc. (`Hard`)   
+**Sprints:** pre-course week 1, pre-course week 2, pre-course week 3, pre-course week 4, pre-course review, data modeling and classes, data structrues and complexity analysis, inheritance patterns, algorithms, browser apps and Ajax, MVC and Backbone, ES6 APIs and React, Angular JS, servers and Node, servers side techniques, databases, authentication and full stack, full stack review, deployment and build tools, Docker & AWS, Java, Job Search
 
 ---
 #### Phase Three `Individual & Group` (Dec 22nd - Jan 3rd)
 
 Sprints | Targets | Time
 --- | --- | ---
-Saturday - Tuesday |  Develop two or more Learn Sprints, or develop one standalone feature | 14 hrs 
-Wednesday - Sunday | Develop two or more Learn Sprints, or develop one integrated feature  |  14 hrs 
+Saturday - Tuesday |  Develop two Learn Sprints, or develop one standalone feature | 14 hrs 
+Wednesday - Sunday | Develop two Learn Sprints, or develop one integrated feature  |  14 hrs 
 Monday - Tuesday |   Finalize individual work   |  7 hrs 
 Wednesday - Thursday |   Integrate All Sprints & new features |  6 hrs 
 
@@ -48,7 +48,7 @@ Sprints | Targets | Time
 Saturday - Sunday  |   Debugging, testing with current students, prepare for deployment   |  7 hrs
 Monday - Tuesday |   Deploy  |  7 hrs
 Wednesday - Thursday | Finalize app, finish docs, **celebrate** | 6 hrs
-Additional Time | Styling, upgrade individual sprints, or develop additional sprints | ???
+Additional Time | Q&A testing, upgrade individual sprints, or develop additional sprints | ???
 
 
 ## Scrum Guidelines
@@ -56,10 +56,10 @@ Additional Time | Styling, upgrade individual sprints, or develop additional spr
 4-day sprints between Dec 22nd to Dec 30th  
 2-day sprints between Dec 31st to Jan 10th  
 
-The `Time` section of the table are recommended hours for you to spend during each sprint.   
-Please prioritize your own shifts, help-desks, and RBK assignments over this commitment. And choose the level of difficulty of your work based on your available time.   
+The `Time` section of the sprint tables are recommended hours to spend.   
+Please prioritize your own work shifts, help-desks, RBK assignments, and family commitments over this projects. And choose the feature/sprint difficulty based on your available time.   
 
-> This is a high impact project that not only exponentially increase your employability, but also benefits RBK years down the line. Every hour you pour in will be evident to the growth of the organization.
+> This is a high impact project that not only exponentially increases your employability, but also directly benefits RBK and all future RBK students. Every hour you pour in will be evident to the growth of the organization.
 
 
 ## Resources
