@@ -38,7 +38,7 @@ Sprints | Targets | Time
 Saturday - Tuesday |  Develop two Learn Sprints, or develop one standalone feature | 14 hrs 
 Wednesday - Sunday | Develop two Learn Sprints, or develop one integrated feature  |  14 hrs 
 Monday - Tuesday |   Finalize individual work   |  7 hrs 
-Wednesday - Thursday |   Integrate All Sprints & new features |  6 hrs 
+Wednesday - Thursday |   **Integrate All Sprints & new features** |  6 hrs 
 
 ---
 #### Phase Four `Group` (Jan 5th - Jan 10th or more)
@@ -47,7 +47,7 @@ Sprints | Targets | Time
 --- | --- | ---
 Saturday - Sunday  |   Debugging, testing with current students, prepare for deployment   |  7 hrs
 Monday - Tuesday |   Deploy  |  7 hrs
-Wednesday - Thursday | Finalize app, finish docs, **celebrate** | 6 hrs
+Wednesday - Thursday | **Finalize app, finish docs, celebrate** | 6 hrs
 Additional Time | Q&A testing, upgrade individual sprints, or develop additional sprints | ???
 
 
