@@ -14,41 +14,41 @@ Staffs can utilize the app to assign additional instruction
 
 Sprints | Targets | Time
 --- | --- | ---
-Saturday - Sunday | Individually think through the app, study React Native  | 7 hrs 
-Monday - Tuesday | Build a React Native MVP following online tutorial   |  7 hrs 
-Wednesday - Thursday |   Allocate roles, set up develop environments   |  6 hrs 
+Saturday - Sunday | Individually think through the app, study React Native  | 7 Hrs 
+Monday - Tuesday | Build a React Native MVP following online tutorial   |  7 Hrs 
+Wednesday - Thursday |   Allocate roles, set up develop environments   |  6 Hrs 
 
 ---
 #### Phase Two `Group` (Dec 15th - 20th)
 
 Sprints | Targets | Time
 --- | --- | ---
-Saturday - Sunday | Build a deployable app with desired style | 7 hrs 
-Monday - Tuesday |  **Present app to Management and other teams for review, reiterate base on feedback**  |  7 hrs 
-Wednesday - Thursday |   Finalize the structure of the app, each HIR choose their features/Sprints   |  6 hrs 
+Saturday - Sunday | Build a deployable app with desired style | 7 Hrs 
+Monday - Tuesday |  **Present app to Management and other teams for review, reiterate base on feedback**  |  7 Hrs 
+Wednesday - Thursday |   Finalize the structure of the app, each HIR choose their features/Sprints   |  6 Hrs 
 
 **Optional features:** authentication login system with Google/Facebook (`Extra Hard`), implement surveys/townhall(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`Medium`), Live message(`Extra Hard`), live code Compile/running environment(`Hard`), staff portal page that accesses student info(`Extra Hard`), student portal page for that accesses survey, townhall, etc. (`Hard`)   
-**Sprints:** pre-course week 1, pre-course week 2, pre-course week 3, pre-course week 4, pre-course review, data modeling and classes, data structrues and complexity analysis, inheritance patterns, algorithms, browser apps and Ajax, MVC and Backbone, ES6 APIs and React, Angular JS, servers and Node, servers side techniques, databases, authentication and full stack, full stack review, deployment and build tools, Docker & AWS, Java, Job Search
+**Sprints:** pre-course week 1, pre-course week 2, pre-course week 3, pre-course week 4, pre-course review, data modeling and classes, data structures and complexity analysis, inheritance patterns, algorithms, browser apps and Ajax, MVC and Backbone, ES6 APIs and React, Angular JS, servers and Node, servers side techniques, databases, authentication and full stack, full stack review, deployment and build tools, Docker & AWS, Java, Job Search
 
 ---
 #### Phase Three `Individual & Group` (Dec 22nd - Jan 3rd)
 
 Sprints | Targets | Time
 --- | --- | ---
-Saturday - Tuesday |  Develop two Learn Sprints, or develop one standalone feature | 14 hrs 
-Wednesday - Sunday | Develop two Learn Sprints, or develop one integrated feature  |  14 hrs 
-Monday - Tuesday |   Finalize individual work   |  7 hrs 
-Wednesday - Thursday |   **Integrate All Sprints & new features** |  6 hrs 
+Saturday - Tuesday |  Develop two Learn Sprints, or develop one standalone feature | 14 Hrs 
+Wednesday - Sunday | Develop two Learn Sprints, or develop one integrated feature  |  14 Hrs 
+Monday - Tuesday |   Finalize individual work   |  7 Hrs 
+Wednesday - Thursday |   **Integrate All Sprints & new features** |  6 Hrs 
 
 ---
 #### Phase Four `Group` (Jan 5th - Jan 10th or more)
 
 Sprints | Targets | Time
 --- | --- | ---
-Saturday - Sunday  |   Debugging, testing with current students, prepare for deployment   |  7 hrs
-Monday - Tuesday |   Deploy  |  7 hrs
-Wednesday - Thursday | **Finalize app, finish docs, celebrate** | 6 hrs
-Additional Time | Q&A testing, upgrade individual sprints, or develop additional sprints | ???
+Saturday - Sunday  |   Debugging, testing with current students, prepare for deployment   |  7 Hrs
+Monday - Tuesday |   Deploy  |  7 Hrs
+Wednesday - Thursday | **Finalize app, finish docs, celebrate** | 6 Hrs
+Additional Time | Q&A testing, upgrade individual sprints, or develop additional sprints | ??? Hrs
 
 
 ## Scrum Guidelines
