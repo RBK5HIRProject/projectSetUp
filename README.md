@@ -27,9 +27,6 @@ Saturday - Sunday | Build a deployable app with desired style | 7 Hrs
 Monday - Tuesday |  **Present app to Management and other teams for review, reiterate base on feedback**  |  7 Hrs 
 Wednesday - Thursday |   Finalize the structure of the app, each HIR choose their features/Sprints   |  6 Hrs 
 
-**Optional features:** authentication login system with Google/Facebook (`Extra Hard`), implement surveys/townhall(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`Medium`), Live message(`Extra Hard`), live code Compile/running environment(`Hard`), staff portal page that accesses student info(`Extra Hard`), student portal page for that accesses survey, townhall, etc. (`Hard`)   
-**Sprints:** pre-course week 1, pre-course week 2, pre-course week 3, pre-course week 4, pre-course review, data modeling and classes, data structures and complexity analysis, inheritance patterns, algorithms, browser apps and Ajax, MVC and Backbone, ES6 APIs and React, Angular JS, servers and Node, servers side techniques, databases, authentication and full stack, full stack review, deployment and build tools, Docker & AWS, Java, Job Search
-
 ---
 #### Phase Three `Individual & Group` (Dec 22nd - Jan 3rd)
 
@@ -50,6 +47,11 @@ Monday - Tuesday |   Deploy  |  7 Hrs
 Wednesday - Thursday | **Finalize app, finish docs, celebrate** | 6 Hrs
 Additional Time | Q&A testing, upgrade individual sprints, or develop additional sprints | ??? Hrs
 
+---
+## Features
+**Optional features:** authentication login system with Google/Facebook (`Extra Hard`), implement surveys/townhall(`Medium`), integrate Google Calendar (`Hard`), upload video/audio (`Medium`), Live message(`Extra Hard`), live code Compile/running environment(`Hard`), staff portal page that accesses student info(`Extra Hard`), student portal page for that accesses survey, townhall, etc. (`Hard`)   
+   
+**Sprints:** pre-course week 1, pre-course week 2, pre-course week 3, pre-course week 4, pre-course review, data modeling and classes, data structures and complexity analysis, inheritance patterns, algorithms, browser apps and Ajax, MVC and Backbone, ES6 APIs and React, Angular JS, servers and Node, servers side techniques, databases, authentication and full stack, full stack review, deployment and build tools, Docker & AWS, Java, Job Search
 
 ## Scrum Guidelines
 2-day sprints between Dec 8th to Dec 20th  
